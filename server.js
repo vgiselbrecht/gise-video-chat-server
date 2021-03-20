@@ -1,6 +1,6 @@
 var app = require('express')();
 var server = require('http').Server(app);
-var io = require('socket.io')(server, {cors:{origin: '*',}});
+var io = require('socket.io')(server, {cors:{origin: process.env.CORS_ORIGIN || '*',}});
 
 server.listen(process.env.PORT || 8080);
 
