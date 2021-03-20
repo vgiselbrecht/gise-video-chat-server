@@ -15,6 +15,13 @@ cd chat-server
 npm install
 ```
 
+## Configuration
+
+The Chat Server can be configured with node.js environment variables (process.env).
+
+* `CORS_ORIGIN` CORS origin URL to protect other URLs: default *
+* `PORT` Port for the web-socket: default 8080
+
 ## Running
 
 ```
