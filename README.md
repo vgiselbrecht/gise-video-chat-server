@@ -5,7 +5,7 @@
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ff69b4.svg)](https://github.com/sponsors/vgiselbrecht/)
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/vgiselbrecht/chat-server)
 
-node.js based server for [Chat](https://github.com/vgiselbrecht/chat/)
+node.js based server for [Gise Video Chat](https://github.com/vgiselbrecht/gise-video-chat/)
 
 ## Installing
 
