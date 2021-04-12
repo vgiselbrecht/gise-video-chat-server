@@ -1,4 +1,4 @@
-# Chat Server 
+# Gise Video Chat Server 
 
 [![Author](https://img.shields.io/badge/Author-vgiselbrecht-brightgreen.svg)](https://github.com/vgiselbrecht)
 [![GitHub license](https://img.shields.io/github/license/vgiselbrecht/chat-server)](https://github.com/vgiselbrecht/chat-server/blob/master/LICENSE)
